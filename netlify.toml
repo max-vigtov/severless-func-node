@@ -1,0 +1,7 @@
+[build]
+  functions = "src/netlify/functions"
+  publish = "."
+
+[dev]
+  functions = "src/netlify/functions"
+  publish = "." 
